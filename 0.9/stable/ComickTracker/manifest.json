@@ -2,8 +2,8 @@
   "name": "ComickTracker",
   "version": "1.0.0",
   "author": "Sarah",
-  "description": "Search Comick.dev titles in Paperback.",
-  "contentType": "manga",
+  "description": "Track manga progress via Comick.dev.",
+  "contentType": "tracker",
   "sourceLanguage": "en",
   "content": {
     "source": "source.ts"
