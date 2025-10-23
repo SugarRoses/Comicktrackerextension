@@ -1,10 +1,12 @@
+import { Tracker } from "paperback-extensions-common";
+
 export default class ComickTracker implements Tracker {
   getTitle(): string {
     return "ComickTracker Test Title";
   }
 
   getCover(): string {
-    return "https://comick.io/assets/logo.png"; // placeholder image
+    return "https://comick.io/assets/logo.png";
   }
 
   getDescription(): string {
@@ -12,6 +14,6 @@ export default class ComickTracker implements Tracker {
   }
 
   getProgress(): number {
-    return 0; // placeholder progress
+    return 0;
   }
 }
