@@ -4,5 +4,8 @@
   "author": "Sarah",
   "description": "Search Comick.dev titles in Paperback.",
   "contentType": "manga",
-  "sourceLanguage": "en"
+  "sourceLanguage": "en",
+  "content": {
+    "source": "source.ts"
+  }
 }
